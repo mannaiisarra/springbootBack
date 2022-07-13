@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add github https://github.com/mannaiisarra/newprojectpfe.git
+git push -f github 
